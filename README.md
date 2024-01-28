@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-P3ZQmMzZNF)
+- Live Site URL: [Add live site URL here](https://jocular-belekoy-fcdaa9.netlify.app/)
 
 ## My process
 
@@ -59,13 +59,11 @@ I want to compelete the rest of the Frontend Mentor Form Validation Challenges w
 
 ### Useful resources
 
-- [Brad Travery 20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) - The Intro Form Validation of this course has really helped me complete this challenge.
+- [Brad Traversy 20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) - The Intro Form Validation of this course has really helped me complete this challenge.
 
 ## Author
 
 - Frontend Mentor - [@JGedd](https://www.frontendmentor.io/profile/JGedd)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
