@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-P3ZQmMzZNF)
-- Live Site URL: [Add live site URL here](https://jocular-belekoy-fcdaa9.netlify.app/)
+- Solution URL: (https://www.frontendmentor.io/solutions/intro-component-with-signup-form-P3ZQmMzZNF)
+- Live Site URL: (https://jocular-belekoy-fcdaa9.netlify.app/)
 
 ## My process
 
